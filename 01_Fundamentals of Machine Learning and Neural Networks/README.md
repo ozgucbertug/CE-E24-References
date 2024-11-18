@@ -18,7 +18,7 @@ Welcome to the **Fundamentals of Machine Learning and Neural Networks** lecture.
 
 ## 1. Introduction to Machine Learning
 
-![ML](images/01/AI.jpeg)
+![ML](../images/01/AI.jpeg)
 
 Machine Learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make decisions or predictions without being explicitly programmed for each task.
 
@@ -185,7 +185,7 @@ Neural Networks are computational models inspired by the human brain, consisting
 
 ### The Perceptron
 
-![Perceptron](images/01/Neuron.jpeg)
+![Perceptron](../images/01/Neuron.jpeg)
 
 **Developed by**: Frank Rosenblatt in 1957.
 
@@ -203,7 +203,7 @@ $
 
 ### Multilayer Perceptrons (MLPs)
 
-![MLP](images/01/MLP.jpeg)
+![MLP](../images/01/MLP.jpeg)
 
 **Architecture**:
 
@@ -213,7 +213,7 @@ $
 
 **Activation Functions**:
 
-![Activation](images/01/activation.jpeg)
+![Activation](../images/01/activation.jpeg)
 
 - **Sigmoid**
 
@@ -221,7 +221,7 @@ $
   f(x) = \frac{1}{1 + e^{-x}}
   $
 
-![Sigmaoid](images/01/sigmoid.jpeg)
+![Sigmaoid](../images/01/sigmoid.jpeg)
 
 - **Tanh**
 
@@ -229,7 +229,7 @@ $
   f(x) = \tanh(x)
   $
 
-![TanH](images/01/tanh.jpeg)
+![TanH](../images/01/tanh.jpeg)
 
 - **ReLU**
 
@@ -237,9 +237,9 @@ $
   f(x) = \max(0, x)
   $
 
-![relu](images/01/relu.jpeg)
+![relu](../images/01/relu.jpeg)
 
-![Activation Functions](images/01/Activation_Functions.jpg)
+![Activation Functions](../images/01/Activation_Functions.jpg)
 
 **Universal Approximation Theorem**:
 
@@ -249,7 +249,7 @@ $
 
 ## 4. Training Neural Networks and Optimization Techniques
 
-![MLP](images/01/Training.jpeg)
+![MLP](../images/01/Training.jpeg)
 
 ### Gradient Descent
 
@@ -436,9 +436,9 @@ $
 
 ### Convolutional Neural Networks (CNNs)
 
-![CNN](images/01/CNN.jpeg)
+![CNN](../images/01/CNN.jpeg)
 
-**Purpose**: Specialized for grid-like data (e.g., images).
+**Purpose**: Specialized for grid-like data (e.g., ../images).
 
 **Components**:
 
@@ -448,7 +448,7 @@ $
 
 ### Recurrent Neural Networks (RNNs)
 
-![RNN](images/01/RNN.jpeg)
+![RNN](../images/01/RNN.jpeg)
 
 **Purpose**: Designed for sequential data.
 
@@ -459,7 +459,7 @@ $
 
 ### Variational Autoencoders (VAEs)
 
-![VAE](images/01/VAE.jpeg)
+![VAE](../images/01/VAE.jpeg)
 
 **Purpose**: Generative models learning probabilistic latent spaces.
 
@@ -470,7 +470,7 @@ $
 
 ### Generative Adversarial Networks (GANs)
 
-![GAN](images/01/GAN.jpeg)
+![GAN](../images/01/GAN.jpeg)
 
 **Purpose**: Generative models for creating realistic data samples.
 
