@@ -213,33 +213,23 @@ $
 
 **Activation Functions**:
 
-![Activation](../images/01/activation.jpeg)
+![Activation Functions](../images/01/Activation_Functions.jpg)
 
-- **Sigmoid**
-
+- **Sigmoid:**
   $
   f(x) = \frac{1}{1 + e^{-x}}
   $
 
-![Sigmaoid](../images/01/sigmoid.jpeg)
-
-- **Tanh**
-
+- **Tanh:**
   $
   f(x) = \tanh(x)
   $
 
-![TanH](../images/01/tanh.jpeg)
-
-- **ReLU**
-
+- **ReLU:**
   $
   f(x) = \max(0, x)
   $
 
-![relu](../images/01/relu.jpeg)
-
-![Activation Functions](../images/01/Activation_Functions.jpg)
 
 **Universal Approximation Theorem**:
 
